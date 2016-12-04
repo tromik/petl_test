@@ -8,3 +8,4 @@ man/*
 tmp/*
 *.log
 *.csv
+connections.py
